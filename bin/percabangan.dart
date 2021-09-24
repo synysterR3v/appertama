@@ -2,7 +2,7 @@ import 'dart:io';
 
 void main(List<String> args) {
   int number = int.tryParse(stdin.readLineSync());
-  String output;
+  // String output;
 
   switch (number) {
     case 1:
