@@ -3,7 +3,7 @@ import 'package:appertama/character.dart';
 
 // void main(List<String> args) async {}
 
-class Monsters extends Character {
+class Monster extends Character {
   // int _healthpoint;
 
   // int get healthpoint => _healthpoint;
