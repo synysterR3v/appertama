@@ -21,7 +21,7 @@ void main(List<String> args) async {
   print(mk.Fly());
 
   if (monsterKecoa is Monster) {
-    print("miaow...");
+    print("miaow....");
   }
 
 // class Monster {}
