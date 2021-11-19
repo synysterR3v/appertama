@@ -20,5 +20,9 @@ void main(List<String> args) async {
   print(m.eatHuman());
   print(mk.Fly());
 
+  if (monsterKecoa is Monster) {
+    print("miaow...");
+  }
+
 // class Monster {}
 }
